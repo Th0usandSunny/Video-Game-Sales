@@ -2,4 +2,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12321499&assignment_repo_type=AssignmentRepo)
 
 
-In recent years, the game industry has grown rapidly and become one of the most profitable entertainment industries in the world. Therefore, understanding the trends and preferences of players in choosing game genres is a key factor in driving a successful game development strategy.
+Game developers should consider focusing more on the "Action" genre, given its high popularity.
+Game companies can prioritize marketing and game development in North America and Europe as the primary markets with significant growth opportunities.
+Diversifying into regions with lower sales, such as Japan or other areas, could be a strategy to boost overall global sales.
+Game developers can continue to create games for proven successful platforms like PS3, PS4, and X360 while exploring opportunities on other platforms.
+
+Technology / Tools: Python, Pandas, NumPy, Seaborn, Matplotlib
